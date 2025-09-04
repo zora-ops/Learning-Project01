@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@layer components{
+    .bg-primary {
+        background-color: #00FF9D;
+    }
+}
